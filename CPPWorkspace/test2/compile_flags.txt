@@ -1,0 +1,9 @@
+-IC:\ProgramData\chocolatey\lib\mingw\tools\install\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++
+-IC:\ProgramData\chocolatey\lib\mingw\tools\install\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\x86_64-w64-mingw32
+-IC:\ProgramData\chocolatey\lib\mingw\tools\install\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\backward
+-IC:\ProgramData\chocolatey\lib\mingw\tools\install\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include
+-IC:\ProgramData\chocolatey\lib\mingw\tools\install\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include-fixed
+-IC:\ProgramData\chocolatey\lib\mingw\tools\install\mingw64\x86_64-w64-mingw32\include
+-IC:\Users\chang\OneDrive\Documents\CPPWorkspace\test2
+-target
+x86_64-pc-windows-gnu
